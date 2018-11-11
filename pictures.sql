@@ -1,4 +1,5 @@
-INSERT INTO pictures VALUES (1, "28977.jpg"),
+INSERT INTO pictures VALUES
+(1, "28977.jpg"),
 (2, "9253.jpg"),
 (3, "30484.jpg"),
 (4, "9969.jpg"),
