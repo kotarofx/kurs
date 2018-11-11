@@ -4,7 +4,7 @@
 	} $db = $_POST['db']; ?>
 <html>
 	<head>
-		<title>Работа с базой данных</title>
+		<title>Список аниме</title>
 		<script type = "text/javascript">
 			function startTime() {
 				var tm = new Date(); var h = tm.getHours(); var m = tm.getMinutes(); var s = tm.getSeconds(); m = checkTime(m); s = checkTime(s);
